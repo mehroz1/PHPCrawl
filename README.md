@@ -7,9 +7,9 @@ For now, I have added support for PHP 8. The test interface works flawless in PH
 
 I have also **disabled** **verify_peer and verify_peer_name** by default while creating stream context on **line 557** of **PHPCrawl/libs/PHPCrawlerHTTPRequest.class.php** 
 
-I will be releasing the 0.84rc1 soon.
+I will be releasing the **0.84rc1** soon.
 
-For now my focus on fixing any errors or bugs that might occur on PHP 8 and decreasing the average time taken to crawl a single url. 
+Right now, my focus is on fixing any errors or bugs that might occur on PHP 8 and decreasing the average time taken to crawl a single url. 
 
 Link to original repository of PHPCrawl:
 https://sourceforge.net/projects/phpcrawl/
