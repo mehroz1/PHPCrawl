@@ -14,6 +14,8 @@ Right now, my focus is on fixing any errors or bugs that might occur on PHP 8 an
 Link to original repository of PHPCrawl:
 https://sourceforge.net/projects/phpcrawl/
 
+If you have any feed back, suggestion or bug to report you are welcome.
+
 ## Requirements
 
 Minimum Required 
@@ -97,4 +99,8 @@ Max memory-usage in KB: 	30720.00
 
 Average time taken to crawl single url is 1.6387s.
 
-**Note:** These metrics can change depending on condition of your internet connection and hardware used.
+**Note:** 
+
+These metrics can change depending on condition of your internet connection and hardware used.
+
+The average time provided in above tests should be taken with a grain of salt as the network conditions and server response times vary. So any change in fraction should be ignored in my opinion.
